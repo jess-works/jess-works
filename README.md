@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jess-works
 - 👀 I’m interested in sleek design
 - 🌱 I’m currently learning css
-- 💞️ I’m looking to collaborate on anything at the moment
+- 💞️ I’m looking to collaborate on anything to go deeper into front-end
 - 📫 How to reach me: jessika.ljungberg@gmail.com
 
 <!---
