@@ -1,9 +1,11 @@
 Coding my days away, dreaming of a seamless internet experience.
 
+
 Hi, I’m Jess
 
 Currently studying at Medieinstitutet to become a front-end developer.
-Love crisp and clean design.
+
+I love crisp and clean design.
 
 <!---
 jess-works/jess-works is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
