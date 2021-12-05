@@ -1,9 +1,9 @@
 Coding my days away, dreaming of a seamless internet experience.
 
 
-Hi, I’m Jess
+Hi!
 
-Currently studying at Medieinstitutet to become a front-end developer.
+I'm currently studying at Medieinstitutet to become a front-end developer.
 
 I love crisp and clean design.
 
