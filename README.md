@@ -1,5 +1,3 @@
-Coding my days away, dreaming of a seamless internet experience.
-
 
 Hi!
 
